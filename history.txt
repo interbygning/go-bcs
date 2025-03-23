@@ -80,3 +80,4 @@
 2025-11-04 10:29:54 improve logging format
 2025-10-27 05:42:40 enhance logging
 2025-03-29 00:10:41 update database schema
+2025-03-23 01:00:02 enhance error reporting
