@@ -62,3 +62,4 @@
 2025-01-01 08:18:49 update configs
 2025-03-17 20:48:33 style improvements
 2025-01-15 20:20:26 minor tweaks
+2025-07-20 11:37:43 improve logging format
