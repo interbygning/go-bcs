@@ -22,3 +22,4 @@
 2025-04-27 03:10:06 fix edge case
 2025-05-26 11:52:25 hotfix applied
 2025-02-09 08:40:10 update logging
+2025-11-18 10:28:27 update build script
